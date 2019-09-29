@@ -274,7 +274,7 @@ namespace ConsoleApp20
             SoundPlayer reglas = new SoundPlayer("C:\\GameDevelopment\\CuatroEnRaya\\CuatroEnRaya\\Media\\move.wav");
             Console.WriteLine("\tREGLAS DEL JUEGO\n");
             Console.ReadKey();
-            Console.WriteLine("\t1. El juego se realiza en un tablero de medidas que el usuario escoga\n");
+            Console.WriteLine("\t1. El juego se Realiza en un tablero de medidas que el usuario escoga\n");
             reglas.Play();
             Console.ReadKey();
             Console.WriteLine("\t2. Son 2 jugadores, cada jugador tiene una ficha de distinto color al de su oponente\n");
